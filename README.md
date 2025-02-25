@@ -2,5 +2,5 @@
 <html>
   <head> my first repo</head>
   <h1>creating repo</h1>
-  <imge></imge>
+  <imge>C:\Users\gpth\Pictures\Screenshots</imge>
 </html>
